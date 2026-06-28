@@ -1,0 +1,7 @@
+name = "faasprobe"
+
+[[workloads]]
+name = "faasprobe"
+kind = "faas"
+faas_public = true
+faas_architecture = "x86_64"
